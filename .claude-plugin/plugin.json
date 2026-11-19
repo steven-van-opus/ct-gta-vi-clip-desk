@@ -1,0 +1,8 @@
+{
+  "name": "ct-gta-vi-clip-desk",
+  "version": "0.1.0",
+  "description": "A Creators Toolbox clip desk for turning authorized GTA VI footage into reviewed 9:16 clips with hooks, captions and credit.",
+  "author": { "name": "Creators Toolbox", "url": "https://creatorstoolbox.com" },
+  "license": "MIT",
+  "skills": ["./skills/clip-desk"]
+}

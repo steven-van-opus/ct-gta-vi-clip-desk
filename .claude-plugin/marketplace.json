@@ -1,0 +1,7 @@
+{
+  "name": "ct-gta-vi-clip-desk",
+  "owner": { "name": "Creators Toolbox" },
+  "plugins": [
+    { "name": "ct-gta-vi-clip-desk", "source": "./", "description": "Rights-first GTA VI clip desk: brief, moment log, 9:16 cut, pre-post check." }
+  ]
+}
